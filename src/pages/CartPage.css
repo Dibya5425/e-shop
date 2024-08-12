@@ -1,0 +1,36 @@
+.cart-page {
+    padding: 20px;
+  }
+  
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+  }
+  
+  .cart-total {
+    margin-top: 20px;
+  }
+  
+  .btn {
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #218838;
+  }
+  
+  .clear-cart {
+    background-color: #dc3545;
+    margin-top: 20px;
+  }
+  
+  .clear-cart:hover {
+    background-color: #c82333;
+  }
+  
